@@ -29,7 +29,7 @@ Duration: 09 June 2025 - 13 June 2025
 
 ### 🗓 01 – Java Programming Elements (09 June)  
 ## Assignment Link:-
-📁 [Java-Programming-Elements](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Programming-Elements)
+📁 [Java-Programming-Elements](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Programming%20Elements)
 
 ---
 
