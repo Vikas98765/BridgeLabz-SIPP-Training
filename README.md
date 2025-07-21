@@ -53,7 +53,7 @@ Duration: 16 June 2025 - 20 June 2025
 
 ### 🗓 04 – Java-Array (16 June) 
 ## Assignment Link:-
-📁 [Java-Array](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Array)
+📁 [Java-Array](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/array)
 
 ---
 
