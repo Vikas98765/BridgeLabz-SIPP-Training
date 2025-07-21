@@ -69,6 +69,31 @@ Duration: 16 June 2025 - 20 June 2025
 
 ---
 
+## 📆 Week 03: OOPS
+Branch: [OOPS](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS)  
+Duration: 23 June 2025 - 28 June 2025
+
+---
+
+### 🗓 01 – Class And Object (23 June) 
+## Assignment Link:-
+📁 [Class And Object](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Class%20And%20Object)
+
+---
+
+### 🗓 02 – Constructor (25 June) 
+## Assignment Link:-
+📁 [Constructor](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Constructor)
+
+---
+
+### 🗓 03 – Keywords (27 June) 
+## Assignment Link:-
+📁 [Keywords](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Keywords)
+
+---
+
+
 
 
 
