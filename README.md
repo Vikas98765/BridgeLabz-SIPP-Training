@@ -59,7 +59,7 @@ Duration: 16 June 2025 - 20 June 2025
 
 ### 🗓 05 – Java-Methods (18 June) 
 ## Assignment Link:-
-📁 [Java-Methods](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods)
+📁 [Java-Methods](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/methodsSheetSolutions)
 
 ---
 
