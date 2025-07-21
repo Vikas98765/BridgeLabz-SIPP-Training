@@ -77,7 +77,7 @@ Duration: 23 June 2025 - 28 June 2025
 
 ### 🗓 01 – Class And Object (23 June) 
 ## Assignment Link:-
-📁 [Class And Object](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Class%20And%20Object)
+📁 [Class And Object](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Class And Object)
 
 ---
 
@@ -89,7 +89,7 @@ Duration: 23 June 2025 - 28 June 2025
 
 ### 🗓 03 – Keywords (27 June) 
 ## Assignment Link:-
-📁 [Keywords](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Keywords)
+📁 [Keywords](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/JavaKeyWords)
 
 ---
 
