@@ -35,7 +35,7 @@ Duration: 09 June 2025 - 13 June 2025
 
 ### 🗓 02 – Java Control Flows (11 June)  
 ## Assignment Link:-
-📁 [Java-Control-Flows](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Control-Flow)
+📁 [Java-Control-Flows](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Control%20Flow)
 
 ---
 
