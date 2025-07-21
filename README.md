@@ -53,19 +53,19 @@ Duration: 16 June 2025 - 20 June 2025
 
 ### 🗓 04 – Java-Array (16 June) 
 ## Assignment Link:-
-📁 [Java-Array](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Array)
+📁 [Java-Array](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Array)
 
 ---
 
 ### 🗓 05 – Java-Methods (18 June) 
 ## Assignment Link:-
-📁 [Java-Methods](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods)
+📁 [Java-Methods](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods)
 
 ---
 
 ### 🗓 06 – Java-Strings (20 June) 
 ## Assignment Link:-
-📁 [Java-Strings](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Strings)
+📁 [Java-Strings](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Strings)
 
 ---
 
