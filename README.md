@@ -1,6 +1,7 @@
 # BridgeLabz-SIPP-Training
 - "This repo powers your BridgeLabz SIPP journey with learning resources and code samples."
---
+
+
 • 💻 Core-Java
 • 💻 OOPs 
 • 💻 DSA
@@ -8,7 +9,8 @@
 
 
 ## Contents
-## $ Branch Overview $
+## 📖 Branch Overview 📖 
+
 
 | Branch Name | Description |
 |-------------|-------------|
