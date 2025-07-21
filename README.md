@@ -65,7 +65,7 @@ Duration: 16 June 2025 - 20 June 2025
 
 ### 🗓 06 – Java-Strings (20 June) 
 ## Assignment Link:-
-📁 [Java-Strings](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/StringsSheetsSolution)
+📁 [Java-Strings](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/Core-Java/Strings)
 
 ---
 
