@@ -93,6 +93,38 @@ Duration: 23 June 2025 - 28 June 2025
 
 ---
 
+## 📆 Week 04: OOPS
+Branch: [OOPS](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS)  
+Duration: 01 July 2025 - 04 July 2025
+
+---
+
+### 🗓 04 – object_modeling_and_Class_diagram ( 01 July) 
+## Assignment Link:-
+📁 [object_modeling_and_Class_diagram](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/object_modeling_and_Class_diagram)
+
+
+### 🗓 05 – Inheritence (03 July) 
+## Assignment Link:-
+📁 [Inheritence](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Inheritence)
+
+---
+
+## 📆 Week 05(A): OOPS
+Branch: [OOPS](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS)  
+Duration: 07 July 2025 - 07 July 2025
+
+---
+
+### 🗓 06 – Encapsulation (07 July) 
+## Assignment Link:-
+📁 [Encapsulation](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Encapsulation)
+
+---
+
+
+
+
 
 
 
