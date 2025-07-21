@@ -106,7 +106,7 @@ Duration: 01 July 2025 - 04 July 2025
 
 ### 🗓 05 – Inheritence (03 July) 
 ## Assignment Link:-
-📁 [Inheritence](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/Inheritence)
+📁 [Inheritence](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/OOPS/JavaInheritence)
 
 ---
 
