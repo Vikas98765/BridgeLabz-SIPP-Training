@@ -154,13 +154,13 @@ Duration: 14 July 2025 - 18 July 2025
 
 ### 🗓 04 – Binary And LinearSearch (15 July) 
 ## Assignment Link:-
-📁 [Binary And LinearSearch](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/BinaryAndLinearSearch)
+📁 [Binary And LinearSearch]()
 
 ---
 
 ### 🗓 05 – Big-O-Notation (17 July) 
 ## Assignment Link:-
-📁 [Big-O-Notation](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation)
+📁 [Big-O-Notation](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation_Problems)
 
 
 
