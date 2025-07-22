@@ -136,13 +136,13 @@ Duration: 08 July 2025 - 11 July 2025
 
 ### 🗓 02 – Stack (10 July) 
 ## Assignment Link:-
-📁 [Stack](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Stack)
+📁 [Stack]()
 
 ---
 
 ### 🗓 03 – Sorting (11 July) 
 ## Assignment Link:-
-📁 [Sorting](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Sorting)
+📁 [Sorting](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Sortings-Algorithm)
 
 ---
 
