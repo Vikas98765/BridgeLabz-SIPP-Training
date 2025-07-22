@@ -136,7 +136,7 @@ Duration: 08 July 2025 - 11 July 2025
 
 ### 🗓 02 – Stack (10 July) 
 ## Assignment Link:-
-📁 [Stack]()
+📁 [Stack](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Stack%2C%2CQueue%2CHashmap%20and%20Hashing%20function)
 
 ---
 
