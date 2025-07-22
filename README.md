@@ -122,6 +122,29 @@ Duration: 07 July 2025 - 07 July 2025
 
 ---
 
+## 📆 Week 05(B): DSA
+Branch: [DSA](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA) 
+Duration: 08 July 2025 - 11 July 2025
+
+---
+
+### 🗓 01 – LinkedList (08 July) 
+## Assignment Link:-
+📁 [LinkedList](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
+
+---
+
+### 🗓 02 – Stack (10 July) 
+## Assignment Link:-
+📁 [Stack](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Stack)
+
+---
+
+### 🗓 03 – Sorting (11 July) 
+## Assignment Link:-
+📁 [Sorting](https://github.com/Vikas98765/BridgeLabz-SIPP-Training/tree/DSA/Sorting)
+
+---
 
 
 
